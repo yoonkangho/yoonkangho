@@ -1,6 +1,6 @@
-### Back-end Developer + @
-- service API in javascript-node.js, python-django-drf
-- communication, service planning, business intelligence
+### Back-end Developer
+- python
+- e-commerce, B2B SaaS, back-office, business intelligence
 
 ### Interests
 - f(architectures, processes, team) = productivity
